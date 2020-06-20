@@ -1,4 +1,4 @@
-# Pyhton-Pandas
+# Python-Pandas
 
 This repo contains all the assignment done by me during the course on Coursera on Data Science using Python. 
 Description of every Assignment:
